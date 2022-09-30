@@ -10,7 +10,6 @@ public class AdminDao {
 	Connection con;
 
 	public AdminDao(Connection con) {
-		super();
 		this.con = con;
 	}
 

@@ -29,4 +29,14 @@
     <servlet-name>LoginServlet</servlet-name>
     <url-pattern>/LoginServlet</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>LogoutServletNew</display-name>
+    <servlet-name>LogoutServletNew</servlet-name>
+    <servlet-class>com.flyaway.servlets.LogoutServletNew</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LogoutServletNew</servlet-name>
+    <url-pattern>/LogoutServletNew</url-pattern>
+  </servlet-mapping>
 </web-app>

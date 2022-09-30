@@ -54,9 +54,9 @@
 					</span> <span class="login100-form-title p-b-34 p-t-27"> Log in </span>
 
 					<div class="wrap-input100 validate-input"
-						data-validate="Enter username">
-						<input class="input100" type="text" name="username"
-							placeholder="Username" required>
+						data-validate="Enter email">
+						<input class="input100" type="text" name="email"
+							placeholder="Email" required>
 						<span class="focus-input100" data-placeholder="&#xf207;"></span>
 					</div>
 
