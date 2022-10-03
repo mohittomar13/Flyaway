@@ -3,6 +3,7 @@ package com.flyaway.entities;
 public class Message {
 	private String messageText;
 	private String cssClass;
+	private String type;
 
 	public Message(String messageText, String cssClass, String type) {
 		super();
@@ -30,5 +31,4 @@ public class Message {
 	public void setType(String type) {
 		this.type = type;
 	}
-	private String type;
 }
